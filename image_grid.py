@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
     # show image 
     if len(images) == 10:
-        grid_img = create_grid(images, rows=2, cols=5)
+        grid_img = create_grid(images, rows = 2, cols = 5)
         grid_img.show()
     else:
         print("invalid")
