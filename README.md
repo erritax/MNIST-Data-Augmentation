@@ -4,7 +4,9 @@ MNIST (Modified National Institute of Standards and Technology) is a large datas
 
 LLMs have become increasingly robust over the years, capable of generating outputs in seconds. This program shows the basics for creating an API that takes in randomly selected images in MNIST and prompts Gemini 2.0 Flash Preview Image Generation to create an additional image, requesting geometric, elastic, and color space transformations. This simple application demonstrates the strength of utilizing LLMs to augment datasets as the retrieval of large, diverse, and high-quality datasets becomes increasingly challenging and time-consuming.
 
-Example:
+The images used were sourced from [a public repository](https://github.com/myleott/mnist_png). To view more about image generation with Gemini [visit here](https://ai.google.dev/gemini-api/docs/image-generation).
+
+# Example:
 
 
 
