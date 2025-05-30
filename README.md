@@ -53,6 +53,17 @@ Example:
 
 *Input:*
 
+![image](https://github.com/user-attachments/assets/6686aa40-532b-45d1-9fa5-e71c0140256a)
+
+
+*Output:*
+
+![image](https://github.com/user-attachments/assets/77e39d22-8732-4610-b927-5f442a8b850e)
+
+
+
+*Input:*
+
 ![image](https://github.com/user-attachments/assets/24509a4e-357c-4f52-89e8-7e8b62c1a829)
 
 
