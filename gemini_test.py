@@ -1,9 +1,9 @@
 from google import genai
 
-genai.configure(api_key="ENTER KEY")
+client = genai.Client(api_key = "ENTER KEY")
 
-model = genai.GenerativeModel("gemini-2.0-flash")
-
-response = model.generate_content("Explain how AI works in a few words")
-
+response = client.models.generate_content(
+    model="gemini-2.0-flash",
+    contents=["How does AI work?"]
+)
 print(response.text)
