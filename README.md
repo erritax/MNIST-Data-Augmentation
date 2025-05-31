@@ -77,12 +77,12 @@ Images from the MNIST dataset were downloaded from [a public repository](https:/
 
 *Input:*
 
-![image](https://github.com/user-attachments/assets/63aa5185-cc2c-41e4-97e3-8dd7a8279bbb)
+![image](https://github.com/user-attachments/assets/d8a65d6b-6d5c-4849-8b4b-daf6a7f83386)
 
 
 *Output:*
 
-![image](https://github.com/user-attachments/assets/4f9d6819-78e1-4bfb-9498-d7b09ced04b1)
+![image](https://github.com/user-attachments/assets/a7e6c0b5-56cb-4efc-8b61-4ac0658db293)
 
 
 
